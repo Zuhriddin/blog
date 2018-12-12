@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "blog",
+    "packageName": "uz.fb.blog",
+    "packageFolder": "uz/fb/blog",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ru",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "OTYxMDdiZDA2OWVkNzIyY2ZmOTgyNmQ4NzA5ODkwMWI2MzUwZjA1ZTljNGNjOTQzODUwNjMxZTczMmJhODkzYTQ1ZjU3MWFhYmQ1MDY1ZGM5ODIyMGEzOTFmYzkzZjgwYTQ4NDRiMGEwN2RiZjRiN2EwOThhYmE0MmExNmRiNzQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Zuhriddin",
+  "repository-name": "blog"
+}
